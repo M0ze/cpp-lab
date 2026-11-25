@@ -1,0 +1,4 @@
+# build artifacts (not committed)
+/build
+*.o
+*.exe
